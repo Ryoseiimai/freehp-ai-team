@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-02T19:48:44+09:00",
-  "last_run_at": "2026-09-02T10:01:10",
-  "total_outreach_count": 17,
+  "generated_at": "2026-09-03T09:48:57+09:00",
+  "last_run_at": "2026-09-03T09:48:57",
+  "total_outreach_count": 18,
   "today": {
-    "date": "2026-09-02",
-    "sent_count": 3
+    "date": "2026-09-03",
+    "sent_count": 1
   },
   "selection": {
-    "date": "2026-09-02",
+    "date": "2026-09-03",
     "A": 4,
     "B": 1,
     "C": 4,
