@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T16:46:55+09:00",
+  "generated_at": "2026-09-15T20:15:57+09:00",
   "last_run_at": "2026-09-15T16:46:55",
   "total_outreach_count": 22,
   "today": {
@@ -8,10 +8,10 @@
   },
   "selection": {
     "date": "2026-09-15",
-    "A": 6,
-    "B": 1,
+    "A": 5,
+    "B": 0,
     "C": 5,
-    "total": 12
+    "total": 10
   },
   "delivery_confirmed_count": 9,
   "daily_send_limit": 3
