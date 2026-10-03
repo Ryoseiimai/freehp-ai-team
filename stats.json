@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-02T20:15:05+09:00",
-  "last_run_at": "2026-10-01T13:20:50",
-  "total_outreach_count": 51,
+  "generated_at": "2026-10-03T09:45:56+09:00",
+  "last_run_at": "2026-10-03T09:45:56",
+  "total_outreach_count": 52,
   "today": {
-    "date": "2026-10-02",
-    "sent_count": 0
+    "date": "2026-10-03",
+    "sent_count": 1
   },
   "selection": {
-    "date": "2026-10-02",
+    "date": "2026-10-03",
     "A": 5,
-    "B": 0,
+    "B": 1,
     "C": 5,
-    "total": 10
+    "total": 11
   },
-  "delivery_confirmed_count": 27,
+  "delivery_confirmed_count": 28,
   "daily_send_limit": 3
 }
